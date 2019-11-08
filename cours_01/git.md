@@ -10,7 +10,7 @@ terminal, de mettre en ligne nos fichiers et dossiers grâce aux commandes:
 
 Pour se projet, nous utilisons principalement ces commandes sur notre *github* qui est
 le site de partage de nos travaux. De plus, avec nos camarades, nous avons mis en ligne 
-certains textes dans *cours_01* comme:
+certains textes dans *cours_01* que nous avons préalablement rempli comme:
 * git.md et 
 * terminal.md
 
